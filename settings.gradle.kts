@@ -1,0 +1,1 @@
+rootProject.name = "Aini Record Web Server"
